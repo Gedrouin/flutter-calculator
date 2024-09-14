@@ -126,6 +126,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
                   child: const Text('C'),
                 ),
               ),
+              _buildButton('%'),
             ],
           ),
         ],
